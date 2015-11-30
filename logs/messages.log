@@ -1,0 +1,396 @@
+ERROR 2015-11-10T13:10:34 supybot Invalid user dictionary file, resetting to empty.
+ERROR 2015-11-10T13:10:34 supybot Exact error: IOError: [Errno 2] No such file or directory: 'conf/users.conf'
+ERROR 2015-11-10T13:10:34 supybot Invalid channel database, resetting to empty.
+ERROR 2015-11-10T13:10:34 supybot Exact error: IOError: [Errno 2] No such file or directory: 'conf/channels.conf'
+WARNING 2015-11-10T13:10:34 supybot Couldn't open ignore database: [Errno 2] No such file or directory: 'conf/ignores.conf'
+INFO 2015-11-10T13:19:34 supybot Shutdown initiated.
+INFO 2015-11-10T13:19:34 supybot Killing Driver objects.
+INFO 2015-11-10T13:19:34 supybot Killing Irc objects.
+INFO 2015-11-10T13:19:34 supybot Shutdown complete.
+INFO 2015-11-10T13:20:06 supybot Creating new Irc for RHAT.
+INFO 2015-11-10T13:20:06 supybot Connecting to irc.devel.redhat.com/6667:6667.
+WARNING 2015-11-10T13:20:06 supybot Error connecting to irc.devel.redhat.com/6667:6667: Name or service not known
+INFO 2015-11-10T13:20:06 supybot Reconnecting to RHAT at 2015-11-10T13:20:16.
+INFO 2015-11-10T13:20:06 supybot Loading plugins (connecting to RHAT).
+WARNING 2015-11-10T13:20:06 supybot Failed to load Karma: No suitable databases were found.  Suitable databases include sqlite.  If you have one of these databases installed, make sure it is listed in the supybot.databases configuration variable.
+INFO 2015-11-10T13:20:14 supybot Exiting due to Ctrl-C.  If the bot doesn't exit within a few seconds, feel free to press Ctrl-C again to make it exit without flushing its message queues.
+INFO 2015-11-10T13:20:14 supybot Flushers flushed and garbage collected.
+INFO 2015-11-10T13:20:14 supybot Irc object for RHAT dying.
+INFO 2015-11-10T13:20:14 supybot Driver for Irc object for RHAT dying.
+INFO 2015-11-10T13:20:14 supybot Total uptime: 8 seconds.
+INFO 2015-11-10T13:20:14 supybot Total CPU time taken: 0.21 seconds.
+INFO 2015-11-10T13:20:14 supybot No more Irc objects, exiting.
+INFO 2015-11-10T13:20:14 supybot Shutdown initiated.
+INFO 2015-11-10T13:20:14 supybot Killing Driver objects.
+INFO 2015-11-10T13:20:14 supybot Driver for Irc object for RHAT dying.
+INFO 2015-11-10T13:20:14 supybot Killing Irc objects.
+INFO 2015-11-10T13:20:14 supybot Writing registry file to Dragonborn.conf
+INFO 2015-11-10T13:20:14 supybot Finished writing registry file.
+INFO 2015-11-10T13:20:14 supybot Shutdown complete.
+INFO 2015-11-10T13:22:46 supybot Creating new Irc for RHAT.
+INFO 2015-11-10T13:22:46 supybot Connecting to irc.devel.redhat.com:6667.
+INFO 2015-11-10T13:22:46 supybot Loading plugins (connecting to RHAT).
+WARNING 2015-11-10T13:22:47 supybot Failed to load Karma: No suitable databases were found.  Suitable databases include sqlite.  If you have one of these databases installed, make sure it is listed in the supybot.databases configuration variable.
+INFO 2015-11-10T13:22:48 supybot Server irc.devel.redhat.com has version ircd-ratbox-2.2.8
+INFO 2015-11-10T13:22:48 supybot Got end of MOTD from irc.devel.redhat.com
+INFO 2015-11-10T13:22:51 supybot Join to #wait on RHAT synced in 2.02 seconds.
+INFO 2015-11-10T13:28:01 supybot help called by "foots!~jfoots@10.12.213.179".
+INFO 2015-11-10T13:28:15 supybot help called by "foots!~jfoots@10.12.213.179".
+INFO 2015-11-10T13:30:39 supybot Exiting due to Ctrl-C.  If the bot doesn't exit within a few seconds, feel free to press Ctrl-C again to make it exit without flushing its message queues.
+INFO 2015-11-10T13:30:39 supybot Flushers flushed and garbage collected.
+INFO 2015-11-10T13:30:39 supybot Driver for Irc object for RHAT dying.
+INFO 2015-11-10T13:30:39 supybot Irc object for RHAT dying.
+INFO 2015-11-10T13:30:39 supybot Driver for Irc object for RHAT dying.
+WARNING 2015-11-10T13:30:39 supybot Disconnect from irc.devel.redhat.com:6667: error: [Errno 9] Bad file descriptor.
+INFO 2015-11-10T13:30:39 supybot Reconnecting to RHAT at 2015-11-10T13:30:49.
+INFO 2015-11-10T13:30:39 supybot Removing driver SocketDriver(Irc object for RHAT).
+INFO 2015-11-10T13:30:39 supybot Total uptime: 7 minutes and 52 seconds.
+INFO 2015-11-10T13:30:39 supybot Total CPU time taken: 0.36 seconds.
+INFO 2015-11-10T13:30:39 supybot No more Irc objects, exiting.
+INFO 2015-11-10T13:30:39 supybot Shutdown initiated.
+INFO 2015-11-10T13:30:39 supybot Killing Driver objects.
+INFO 2015-11-10T13:30:39 supybot Killing Irc objects.
+INFO 2015-11-10T13:30:39 supybot Writing registry file to Dragonborn.conf
+INFO 2015-11-10T13:30:39 supybot Finished writing registry file.
+INFO 2015-11-10T13:30:39 supybot Shutdown complete.
+INFO 2015-11-10T14:42:35 supybot Creating new Irc for RHAT.
+INFO 2015-11-10T14:42:35 supybot Connecting to irc.devel.redhat.com:6667.
+INFO 2015-11-10T14:42:35 supybot Loading plugins (connecting to RHAT).
+WARNING 2015-11-10T14:42:35 supybot Failed to load Karma: No suitable databases were found.  Suitable databases include sqlite.  If you have one of these databases installed, make sure it is listed in the supybot.databases configuration variable.
+INFO 2015-11-10T14:42:36 supybot Server irc.devel.redhat.com has version ircd-ratbox-2.2.8
+INFO 2015-11-10T14:42:36 supybot Got end of MOTD from irc.devel.redhat.com
+INFO 2015-11-10T14:42:39 supybot Join to #wait on RHAT synced in 2.02 seconds.
+INFO 2015-11-10T14:44:29 supybot Exiting due to Ctrl-C.  If the bot doesn't exit within a few seconds, feel free to press Ctrl-C again to make it exit without flushing its message queues.
+INFO 2015-11-10T14:44:29 supybot Flushers flushed and garbage collected.
+INFO 2015-11-10T14:44:29 supybot Driver for Irc object for RHAT dying.
+INFO 2015-11-10T14:44:29 supybot Irc object for RHAT dying.
+INFO 2015-11-10T14:44:29 supybot Driver for Irc object for RHAT dying.
+WARNING 2015-11-10T14:44:29 supybot Disconnect from irc.devel.redhat.com:6667: error: [Errno 9] Bad file descriptor.
+INFO 2015-11-10T14:44:29 supybot Reconnecting to RHAT at 2015-11-10T14:44:39.
+INFO 2015-11-10T14:44:29 supybot Removing driver SocketDriver(Irc object for RHAT).
+INFO 2015-11-10T14:44:29 supybot Total uptime: 1 minute and 54 seconds.
+INFO 2015-11-10T14:44:29 supybot Total CPU time taken: 0.25 seconds.
+INFO 2015-11-10T14:44:29 supybot No more Irc objects, exiting.
+INFO 2015-11-10T14:44:29 supybot Shutdown initiated.
+INFO 2015-11-10T14:44:29 supybot Killing Driver objects.
+INFO 2015-11-10T14:44:29 supybot Killing Irc objects.
+INFO 2015-11-10T14:44:29 supybot Writing registry file to Dragonborn.conf
+INFO 2015-11-10T14:44:29 supybot Finished writing registry file.
+INFO 2015-11-10T14:44:29 supybot Shutdown complete.
+INFO 2015-11-10T15:48:43 supybot Creating new Irc for RHAT.
+INFO 2015-11-10T15:48:43 supybot Connecting to irc.devel.redhat.com:6667.
+INFO 2015-11-10T15:48:43 supybot Loading plugins (connecting to RHAT).
+WARNING 2015-11-10T15:48:43 supybot Failed to load Karma: No suitable databases were found.  Suitable databases include sqlite.  If you have one of these databases installed, make sure it is listed in the supybot.databases configuration variable.
+INFO 2015-11-10T15:48:44 supybot Server irc.devel.redhat.com has version ircd-ratbox-2.2.8
+INFO 2015-11-10T15:48:44 supybot Got end of MOTD from irc.devel.redhat.com
+INFO 2015-11-10T15:48:47 supybot Join to #wait on RHAT synced in 2.02 seconds.
+INFO 2015-11-10T15:49:02 supybot load called by "foots!~jfoots@10.12.213.179".
+INFO 2015-11-10T15:49:02 supybot Preventing foots!~jfoots@10.12.213.179 from calling owner.load because of -owner.
+WARNING 2015-11-10T15:49:02 supybot Denying foots!~jfoots@10.12.213.179 for lacking "owner" capability.
+INFO 2015-11-10T15:49:11 supybot whoami called by "foots!~jfoots@10.12.213.179".
+INFO 2015-11-10T15:49:40 supybot whoami called by "foots!~jfoots@10.12.213.179".
+INFO 2015-11-10T15:51:29 supybot Exiting due to Ctrl-C.  If the bot doesn't exit within a few seconds, feel free to press Ctrl-C again to make it exit without flushing its message queues.
+INFO 2015-11-10T15:51:29 supybot Flushers flushed and garbage collected.
+INFO 2015-11-10T15:51:29 supybot Driver for Irc object for RHAT dying.
+INFO 2015-11-10T15:51:29 supybot Irc object for RHAT dying.
+INFO 2015-11-10T15:51:29 supybot Driver for Irc object for RHAT dying.
+WARNING 2015-11-10T15:51:29 supybot Disconnect from irc.devel.redhat.com:6667: error: [Errno 9] Bad file descriptor.
+INFO 2015-11-10T15:51:29 supybot Reconnecting to RHAT at 2015-11-10T15:51:39.
+INFO 2015-11-10T15:51:29 supybot Removing driver SocketDriver(Irc object for RHAT).
+INFO 2015-11-10T15:51:29 supybot Total uptime: 2 minutes and 46 seconds.
+INFO 2015-11-10T15:51:29 supybot Total CPU time taken: 0.3 seconds.
+INFO 2015-11-10T15:51:29 supybot No more Irc objects, exiting.
+INFO 2015-11-10T15:51:29 supybot Shutdown initiated.
+INFO 2015-11-10T15:51:29 supybot Killing Driver objects.
+INFO 2015-11-10T15:51:29 supybot Killing Irc objects.
+INFO 2015-11-10T15:51:29 supybot Writing registry file to Dragonborn.conf
+INFO 2015-11-10T15:51:29 supybot Finished writing registry file.
+INFO 2015-11-10T15:51:30 supybot Shutdown complete.
+INFO 2015-11-10T16:01:11 supybot Creating new Irc for RHAT.
+INFO 2015-11-10T16:01:11 supybot Connecting to irc.devel.redhat.com:6667.
+INFO 2015-11-10T16:01:11 supybot Loading plugins (connecting to RHAT).
+WARNING 2015-11-10T16:01:11 supybot Failed to load Karma: No suitable databases were found.  Suitable databases include sqlite.  If you have one of these databases installed, make sure it is listed in the supybot.databases configuration variable.
+INFO 2015-11-10T16:01:12 supybot Server irc.devel.redhat.com has version ircd-ratbox-2.2.8
+INFO 2015-11-10T16:01:12 supybot Got end of MOTD from irc.devel.redhat.com
+INFO 2015-11-10T16:01:16 supybot Join to #wait on RHAT synced in 2.02 seconds.
+INFO 2015-11-10T16:01:27 supybot whoami called by "foots!~jfoots@10.12.213.179".
+INFO 2015-11-10T16:01:33 supybot help called by "foots!~jfoots@10.12.213.179".
+INFO 2015-11-10T16:01:37 supybot help called by "foots!~jfoots@10.12.213.179".
+INFO 2015-11-10T16:01:45 supybot help called by "foots!~jfoots@10.12.213.179".
+INFO 2015-11-10T16:02:00 supybot Exiting due to Ctrl-C.  If the bot doesn't exit within a few seconds, feel free to press Ctrl-C again to make it exit without flushing its message queues.
+INFO 2015-11-10T16:02:01 supybot Flushers flushed and garbage collected.
+INFO 2015-11-10T16:02:01 supybot Driver for Irc object for RHAT dying.
+INFO 2015-11-10T16:02:01 supybot Irc object for RHAT dying.
+INFO 2015-11-10T16:02:01 supybot Driver for Irc object for RHAT dying.
+WARNING 2015-11-10T16:02:01 supybot Disconnect from irc.devel.redhat.com:6667: error: [Errno 9] Bad file descriptor.
+INFO 2015-11-10T16:02:01 supybot Reconnecting to RHAT at 2015-11-10T16:02:11.
+INFO 2015-11-10T16:02:01 supybot Removing driver SocketDriver(Irc object for RHAT).
+INFO 2015-11-10T16:02:01 supybot Total uptime: 49 seconds.
+INFO 2015-11-10T16:02:01 supybot Total CPU time taken: 0.26 seconds.
+INFO 2015-11-10T16:02:01 supybot No more Irc objects, exiting.
+INFO 2015-11-10T16:02:01 supybot Shutdown initiated.
+INFO 2015-11-10T16:02:01 supybot Killing Driver objects.
+INFO 2015-11-10T16:02:01 supybot Killing Irc objects.
+INFO 2015-11-10T16:02:01 supybot Writing registry file to Dragonborn.conf
+INFO 2015-11-10T16:02:01 supybot Finished writing registry file.
+INFO 2015-11-10T16:02:01 supybot Shutdown complete.
+INFO 2015-11-10T16:02:21 supybot Creating new Irc for RHAT.
+INFO 2015-11-10T16:02:21 supybot Connecting to irc.devel.redhat.com:6667.
+INFO 2015-11-10T16:02:21 supybot Loading plugins (connecting to RHAT).
+WARNING 2015-11-10T16:02:21 supybot Failed to load Karma: No suitable databases were found.  Suitable databases include sqlite.  If you have one of these databases installed, make sure it is listed in the supybot.databases configuration variable.
+INFO 2015-11-10T16:02:22 supybot Server irc.devel.redhat.com has version ircd-ratbox-2.2.8
+INFO 2015-11-10T16:02:22 supybot Got end of MOTD from irc.devel.redhat.com
+INFO 2015-11-10T16:02:25 supybot Join to #wait on RHAT synced in 2.02 seconds.
+INFO 2015-11-10T16:02:33 supybot whoami called by "foots!~jfoots@10.12.213.179".
+INFO 2015-11-10T16:03:36 supybot identify called by "foots!~jfoots@10.12.213.179".
+INFO 2015-11-10T16:04:13 supybot identify called by "foots!~jfoots@10.12.213.179".
+INFO 2015-11-10T16:04:25 supybot identify called by "foots!~jfoots@10.12.213.179".
+INFO 2015-11-10T16:04:34 supybot Exiting due to Ctrl-C.  If the bot doesn't exit within a few seconds, feel free to press Ctrl-C again to make it exit without flushing its message queues.
+INFO 2015-11-10T16:04:34 supybot Flushers flushed and garbage collected.
+INFO 2015-11-10T16:04:34 supybot Driver for Irc object for RHAT dying.
+INFO 2015-11-10T16:04:34 supybot Irc object for RHAT dying.
+INFO 2015-11-10T16:04:34 supybot Driver for Irc object for RHAT dying.
+WARNING 2015-11-10T16:04:34 supybot Disconnect from irc.devel.redhat.com:6667: error: [Errno 9] Bad file descriptor.
+INFO 2015-11-10T16:04:34 supybot Reconnecting to RHAT at 2015-11-10T16:04:44.
+INFO 2015-11-10T16:04:34 supybot Removing driver SocketDriver(Irc object for RHAT).
+INFO 2015-11-10T16:04:34 supybot Total uptime: 2 minutes and 13 seconds.
+INFO 2015-11-10T16:04:34 supybot Total CPU time taken: 0.29 seconds.
+INFO 2015-11-10T16:04:34 supybot No more Irc objects, exiting.
+INFO 2015-11-10T16:04:34 supybot Shutdown initiated.
+INFO 2015-11-10T16:04:34 supybot Killing Driver objects.
+INFO 2015-11-10T16:04:34 supybot Killing Irc objects.
+INFO 2015-11-10T16:04:34 supybot Writing registry file to Dragonborn.conf
+INFO 2015-11-10T16:04:34 supybot Finished writing registry file.
+INFO 2015-11-10T16:04:34 supybot Shutdown complete.
+INFO 2015-11-10T16:04:51 supybot Creating new Irc for RHAT.
+INFO 2015-11-10T16:04:51 supybot Connecting to irc.devel.redhat.com:6667.
+INFO 2015-11-10T16:04:51 supybot Loading plugins (connecting to RHAT).
+WARNING 2015-11-10T16:04:51 supybot Failed to load Karma: No suitable databases were found.  Suitable databases include sqlite.  If you have one of these databases installed, make sure it is listed in the supybot.databases configuration variable.
+INFO 2015-11-10T16:04:52 supybot Server irc.devel.redhat.com has version ircd-ratbox-2.2.8
+INFO 2015-11-10T16:04:52 supybot Got end of MOTD from irc.devel.redhat.com
+INFO 2015-11-10T16:04:55 supybot Join to #wait on RHAT synced in 2.02 seconds.
+INFO 2015-11-10T16:04:58 supybot identify called by "foots!~jfoots@10.12.213.179".
+INFO 2015-11-10T16:05:06 supybot identify called by "foots!~jfoots@10.12.213.179".
+INFO 2015-11-10T16:05:12 supybot whoami called by "foots!~jfoots@10.12.213.179".
+INFO 2015-11-10T16:06:24 supybot load called by "foots!~jfoots@10.12.213.179".
+INFO 2015-11-10T16:57:59 supybot Exiting due to Ctrl-C.  If the bot doesn't exit within a few seconds, feel free to press Ctrl-C again to make it exit without flushing its message queues.
+INFO 2015-11-10T16:57:59 supybot Flushers flushed and garbage collected.
+INFO 2015-11-10T16:57:59 supybot Driver for Irc object for RHAT dying.
+INFO 2015-11-10T16:57:59 supybot Irc object for RHAT dying.
+INFO 2015-11-10T16:57:59 supybot Driver for Irc object for RHAT dying.
+WARNING 2015-11-10T16:57:59 supybot Disconnect from irc.devel.redhat.com:6667: error: [Errno 9] Bad file descriptor.
+INFO 2015-11-10T16:57:59 supybot Reconnecting to RHAT at 2015-11-10T16:58:09.
+INFO 2015-11-10T16:57:59 supybot Removing driver SocketDriver(Irc object for RHAT).
+INFO 2015-11-10T16:57:59 supybot Total uptime: 53 minutes and 7 seconds.
+INFO 2015-11-10T16:57:59 supybot Total CPU time taken: 0.96 seconds.
+INFO 2015-11-10T16:57:59 supybot No more Irc objects, exiting.
+INFO 2015-11-10T16:57:59 supybot Shutdown initiated.
+INFO 2015-11-10T16:57:59 supybot Killing Driver objects.
+INFO 2015-11-10T16:57:59 supybot Killing Irc objects.
+INFO 2015-11-10T16:57:59 supybot Writing registry file to Dragonborn.conf
+INFO 2015-11-10T16:57:59 supybot Finished writing registry file.
+INFO 2015-11-10T16:57:59 supybot Shutdown complete.
+ERROR 2015-11-10T17:15:39 supybot Invalid line in ignores database: "flexo"
+INFO 2015-11-10T17:15:39 supybot Creating new Irc for RHAT.
+INFO 2015-11-10T17:15:39 supybot Connecting to irc.devel.redhat.com:6667.
+INFO 2015-11-10T17:15:39 supybot Loading plugins (connecting to RHAT).
+WARNING 2015-11-10T17:15:39 supybot Failed to load Karma: No suitable databases were found.  Suitable databases include sqlite.  If you have one of these databases installed, make sure it is listed in the supybot.databases configuration variable.
+INFO 2015-11-10T17:15:40 supybot Server irc.devel.redhat.com has version ircd-ratbox-2.2.8
+INFO 2015-11-10T17:15:40 supybot Got end of MOTD from irc.devel.redhat.com
+INFO 2015-11-10T17:15:43 supybot Join to #wait on RHAT synced in 2.02 seconds.
+INFO 2015-11-10T17:16:18 supybot identify called by "foots!~jfoots@10.12.213.179".
+INFO 2015-11-10T17:16:26 supybot load called by "foots!~jfoots@10.12.213.179".
+ERROR 2015-11-10T17:16:26 supybot Uncaught exception in ['load'].
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/supybot/callbacks.py", line 1180, in _callCommand
+    self.callCommand(command, irc, msg, *args, **kwargs)
+  File "/usr/lib/python2.7/dist-packages/supybot/utils/python.py", line 86, in g
+    f(self, *args, **kwargs)
+  File "/usr/lib/python2.7/dist-packages/supybot/callbacks.py", line 1166, in callCommand
+    method(irc, msg, *args, **kwargs)
+  File "/usr/lib/python2.7/dist-packages/supybot/commands.py", line 913, in newf
+    f(self, irc, msg, args, *state.args, **state.kwargs)
+  File "/usr/lib/python2.7/dist-packages/supybot/plugins/Owner/plugin.py", line 461, in load
+    cb = plugin.loadPluginClass(irc, module)
+  File "/usr/lib/python2.7/dist-packages/supybot/plugin.py", line 78, in loadPluginClass
+    cb = module.Class(irc)
+  File "/usr/lib/python2.7/dist-packages/supybot/utils/python.py", line 98, in __init__
+    original__init__(self, *args, **kwargs)
+  File "/home/jfoots/supybot/plugins/NewKarma/plugin.py", line 328, in __init__
+    self.db = KarmaDB()
+  File "/usr/lib/python2.7/dist-packages/supybot/plugins/__init__.py", line 124, in MakeDB
+    raise NoSuitableDatabase, types.keys()
+NoSuitableDatabase: No suitable databases were found.  Suitable databases include sqlite3.  If you have one of these databases installed, make sure it is listed in the supybot.databases configuration variable.
+ERROR 2015-11-10T17:16:26 supybot Exception id: 0xb2870
+INFO 2015-11-10T17:24:44 supybot whoami called by "foots!~jfoots@10.12.213.179".
+INFO 2015-11-10T18:03:28 supybot Exiting due to Ctrl-C.  If the bot doesn't exit within a few seconds, feel free to press Ctrl-C again to make it exit without flushing its message queues.
+INFO 2015-11-10T18:03:28 supybot Flushers flushed and garbage collected.
+INFO 2015-11-10T18:03:28 supybot Driver for Irc object for RHAT dying.
+INFO 2015-11-10T18:03:28 supybot Irc object for RHAT dying.
+INFO 2015-11-10T18:03:28 supybot Driver for Irc object for RHAT dying.
+WARNING 2015-11-10T18:03:28 supybot Disconnect from irc.devel.redhat.com:6667: error: [Errno 9] Bad file descriptor.
+INFO 2015-11-10T18:03:28 supybot Reconnecting to RHAT at 2015-11-10T18:03:38.
+INFO 2015-11-10T18:03:28 supybot Removing driver SocketDriver(Irc object for RHAT).
+INFO 2015-11-10T18:03:28 supybot Total uptime: 47 minutes and 49 seconds.
+INFO 2015-11-10T18:03:28 supybot Total CPU time taken: 0.91 seconds.
+INFO 2015-11-10T18:03:28 supybot No more Irc objects, exiting.
+INFO 2015-11-10T18:03:28 supybot Shutdown initiated.
+INFO 2015-11-10T18:03:28 supybot Killing Driver objects.
+INFO 2015-11-10T18:03:28 supybot Killing Irc objects.
+INFO 2015-11-10T18:03:28 supybot Writing registry file to Dragonborn.conf
+INFO 2015-11-10T18:03:28 supybot Finished writing registry file.
+INFO 2015-11-10T18:03:28 supybot Shutdown complete.
+INFO 2015-11-11T09:21:11 supybot Creating new Irc for RHAT.
+INFO 2015-11-11T09:21:11 supybot Connecting to irc.devel.redhat.com:6667.
+INFO 2015-11-11T09:21:11 supybot Loading plugins (connecting to RHAT).
+INFO 2015-11-11T09:21:12 supybot Server irc.devel.redhat.com has version ircd-ratbox-2.2.8
+INFO 2015-11-11T09:21:12 supybot Got end of MOTD from irc.devel.redhat.com
+INFO 2015-11-11T09:21:15 supybot Join to #wait on RHAT synced in 2.02 seconds.
+INFO 2015-11-11T09:22:54 supybot Exiting due to Ctrl-C.  If the bot doesn't exit within a few seconds, feel free to press Ctrl-C again to make it exit without flushing its message queues.
+INFO 2015-11-11T09:22:54 supybot Flushers flushed and garbage collected.
+INFO 2015-11-11T09:22:54 supybot Driver for Irc object for RHAT dying.
+INFO 2015-11-11T09:22:54 supybot Irc object for RHAT dying.
+INFO 2015-11-11T09:22:54 supybot Driver for Irc object for RHAT dying.
+WARNING 2015-11-11T09:22:54 supybot Disconnect from irc.devel.redhat.com:6667: error: [Errno 9] Bad file descriptor.
+INFO 2015-11-11T09:22:54 supybot Reconnecting to RHAT at 2015-11-11T09:23:04.
+INFO 2015-11-11T09:22:54 supybot Removing driver SocketDriver(Irc object for RHAT).
+INFO 2015-11-11T09:22:54 supybot Total uptime: 1 minute and 43 seconds.
+INFO 2015-11-11T09:22:54 supybot Total CPU time taken: 0.31 seconds.
+INFO 2015-11-11T09:22:54 supybot No more Irc objects, exiting.
+INFO 2015-11-11T09:22:54 supybot Shutdown initiated.
+INFO 2015-11-11T09:22:54 supybot Killing Driver objects.
+INFO 2015-11-11T09:22:54 supybot Killing Irc objects.
+INFO 2015-11-11T09:22:54 supybot Writing registry file to Dragonborn.conf
+INFO 2015-11-11T09:22:54 supybot Finished writing registry file.
+INFO 2015-11-11T09:22:54 supybot Shutdown complete.
+INFO 2015-11-11T09:24:58 supybot Creating new Irc for RHAT.
+INFO 2015-11-11T09:24:58 supybot Connecting to irc.devel.redhat.com:6667.
+INFO 2015-11-11T09:24:58 supybot Loading plugins (connecting to RHAT).
+INFO 2015-11-11T09:24:59 supybot Server irc.devel.redhat.com has version ircd-ratbox-2.2.8
+INFO 2015-11-11T09:24:59 supybot Got end of MOTD from irc.devel.redhat.com
+INFO 2015-11-11T09:25:02 supybot Join to #wait on RHAT synced in 2.02 seconds.
+INFO 2015-11-11T09:25:29 supybot identify called by "foots!~jfoots@10.12.213.179".
+INFO 2015-11-11T09:25:43 supybot load called by "foots!~jfoots@10.12.213.179".
+ERROR 2015-11-11T09:25:43 supybot Uncaught exception in ['load'].
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/supybot/callbacks.py", line 1180, in _callCommand
+    self.callCommand(command, irc, msg, *args, **kwargs)
+  File "/usr/lib/python2.7/dist-packages/supybot/utils/python.py", line 86, in g
+    f(self, *args, **kwargs)
+  File "/usr/lib/python2.7/dist-packages/supybot/callbacks.py", line 1166, in callCommand
+    method(irc, msg, *args, **kwargs)
+  File "/usr/lib/python2.7/dist-packages/supybot/commands.py", line 913, in newf
+    f(self, irc, msg, args, *state.args, **state.kwargs)
+  File "/usr/lib/python2.7/dist-packages/supybot/plugins/Owner/plugin.py", line 461, in load
+    cb = plugin.loadPluginClass(irc, module)
+  File "/usr/lib/python2.7/dist-packages/supybot/plugin.py", line 78, in loadPluginClass
+    cb = module.Class(irc)
+  File "/usr/lib/python2.7/dist-packages/supybot/utils/python.py", line 98, in __init__
+    original__init__(self, *args, **kwargs)
+  File "/home/jfoots/supybot/plugins/NewKarma/plugin.py", line 328, in __init__
+    self.db = KarmaDB()
+  File "/usr/lib/python2.7/dist-packages/supybot/plugins/__init__.py", line 124, in MakeDB
+    raise NoSuitableDatabase, types.keys()
+NoSuitableDatabase: No suitable databases were found.  Suitable databases include sqlite3.  If you have one of these databases installed, make sure it is listed in the supybot.databases configuration variable.
+ERROR 2015-11-11T09:25:43 supybot Exception id: 0xb2870
+INFO 2015-11-11T09:27:52 supybot Exiting due to Ctrl-C.  If the bot doesn't exit within a few seconds, feel free to press Ctrl-C again to make it exit without flushing its message queues.
+INFO 2015-11-11T09:27:52 supybot Flushers flushed and garbage collected.
+INFO 2015-11-11T09:27:52 supybot Driver for Irc object for RHAT dying.
+INFO 2015-11-11T09:27:52 supybot Irc object for RHAT dying.
+INFO 2015-11-11T09:27:52 supybot Driver for Irc object for RHAT dying.
+WARNING 2015-11-11T09:27:52 supybot Disconnect from irc.devel.redhat.com:6667: error: [Errno 9] Bad file descriptor.
+INFO 2015-11-11T09:27:52 supybot Reconnecting to RHAT at 2015-11-11T09:28:02.
+INFO 2015-11-11T09:27:52 supybot Removing driver SocketDriver(Irc object for RHAT).
+INFO 2015-11-11T09:27:52 supybot Total uptime: 2 minutes and 53 seconds.
+INFO 2015-11-11T09:27:52 supybot Total CPU time taken: 0.27 seconds.
+INFO 2015-11-11T09:27:52 supybot No more Irc objects, exiting.
+INFO 2015-11-11T09:27:52 supybot Shutdown initiated.
+INFO 2015-11-11T09:27:52 supybot Killing Driver objects.
+INFO 2015-11-11T09:27:52 supybot Killing Irc objects.
+INFO 2015-11-11T09:27:52 supybot Writing registry file to Dragonborn.conf
+INFO 2015-11-11T09:27:52 supybot Finished writing registry file.
+INFO 2015-11-11T09:27:52 supybot Shutdown complete.
+INFO 2015-11-11T09:28:13 supybot Creating new Irc for RHAT.
+INFO 2015-11-11T09:28:13 supybot Connecting to irc.devel.redhat.com:6667.
+INFO 2015-11-11T09:28:13 supybot Loading plugins (connecting to RHAT).
+WARNING 2015-11-11T09:28:13 supybot Failed to load Karma: No suitable databases were found.  Suitable databases include sqlite.  If you have one of these databases installed, make sure it is listed in the supybot.databases configuration variable.
+WARNING 2015-11-11T09:28:13 supybot Failed to load Praise: No suitable databases were found.  Suitable databases include flat.  If you have one of these databases installed, make sure it is listed in the supybot.databases configuration variable.
+WARNING 2015-11-11T09:28:13 supybot Failed to load Quote: No suitable databases were found.  Suitable databases include flat.  If you have one of these databases installed, make sure it is listed in the supybot.databases configuration variable.
+WARNING 2015-11-11T09:28:13 supybot Failed to load URL: No suitable databases were found.  Suitable databases include flat.  If you have one of these databases installed, make sure it is listed in the supybot.databases configuration variable.
+INFO 2015-11-11T09:28:14 supybot Server irc.devel.redhat.com has version ircd-ratbox-2.2.8
+INFO 2015-11-11T09:28:14 supybot Got end of MOTD from irc.devel.redhat.com
+INFO 2015-11-11T09:28:17 supybot Join to #wait on RHAT synced in 2.02 seconds.
+INFO 2015-11-11T09:28:40 supybot identify called by "foots!~jfoots@10.12.213.179".
+INFO 2015-11-11T09:28:42 supybot load called by "foots!~jfoots@10.12.213.179".
+INFO 2015-11-11T09:29:54 supybot Exiting due to Ctrl-C.  If the bot doesn't exit within a few seconds, feel free to press Ctrl-C again to make it exit without flushing its message queues.
+INFO 2015-11-11T09:29:54 supybot Flushers flushed and garbage collected.
+INFO 2015-11-11T09:29:54 supybot Driver for Irc object for RHAT dying.
+INFO 2015-11-11T09:29:54 supybot Irc object for RHAT dying.
+INFO 2015-11-11T09:29:54 supybot Driver for Irc object for RHAT dying.
+ERROR 2015-11-11T09:29:55 supybot Uncaught exception in Irc.takeMsg:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/supybot/log.py", line 351, in m
+    return f(self, *args, **kwargs)
+  File "/usr/lib/python2.7/dist-packages/supybot/irclib.py", line 762, in takeMsg
+    self._reallyDie()
+  File "/usr/lib/python2.7/dist-packages/supybot/irclib.py", line 1003, in _reallyDie
+    cb.die()
+  File "/home/jfoots/supybot/plugins/NewKarma/plugin.py", line 333, in die
+    self.db.close()
+  File "/home/jfoots/supybot/plugins/NewKarma/plugin.py", line 55, in close
+    db.close()
+ProgrammingError: SQLite objects created in a thread can only be used in that same thread.The object was created in thread id 140023739692800 and this is thread id 140023810758400
+ERROR 2015-11-11T09:29:55 supybot Exception id: 0x6ac0e
+WARNING 2015-11-11T09:29:55 supybot Disconnect from irc.devel.redhat.com:6667: error: [Errno 9] Bad file descriptor.
+INFO 2015-11-11T09:29:55 supybot Reconnecting to RHAT at 2015-11-11T09:30:05.
+INFO 2015-11-11T09:29:55 supybot Removing driver SocketDriver(Irc object for RHAT).
+INFO 2015-11-11T09:29:55 supybot Total uptime: 1 minute and 41 seconds.
+INFO 2015-11-11T09:29:55 supybot Total CPU time taken: 0.33 seconds.
+INFO 2015-11-11T09:29:55 supybot No more Irc objects, exiting.
+INFO 2015-11-11T09:29:55 supybot Shutdown initiated.
+INFO 2015-11-11T09:29:55 supybot Killing Driver objects.
+INFO 2015-11-11T09:29:55 supybot Killing Irc objects.
+INFO 2015-11-11T09:29:55 supybot Writing registry file to Dragonborn.conf
+INFO 2015-11-11T09:29:55 supybot Finished writing registry file.
+INFO 2015-11-11T09:29:55 supybot Shutdown complete.
+INFO 2015-11-30T11:32:06 supybot Creating new Irc for RHAT.
+INFO 2015-11-30T11:32:06 supybot Connecting to irc.devel.redhat.com:6667.
+INFO 2015-11-30T11:32:06 supybot Loading plugins (connecting to RHAT).
+WARNING 2015-11-30T11:32:06 supybot Failed to load Karma: No suitable databases were found.  Suitable databases include sqlite.  If you have one of these databases installed, make sure it is listed in the supybot.databases configuration variable.
+WARNING 2015-11-30T11:32:06 supybot Failed to load Praise: No suitable databases were found.  Suitable databases include flat.  If you have one of these databases installed, make sure it is listed in the supybot.databases configuration variable.
+WARNING 2015-11-30T11:32:06 supybot Failed to load Quote: No suitable databases were found.  Suitable databases include flat.  If you have one of these databases installed, make sure it is listed in the supybot.databases configuration variable.
+WARNING 2015-11-30T11:32:06 supybot Failed to load URL: No suitable databases were found.  Suitable databases include flat.  If you have one of these databases installed, make sure it is listed in the supybot.databases configuration variable.
+INFO 2015-11-30T11:32:07 supybot Server irc.devel.redhat.com has version ircd-ratbox-2.2.8
+INFO 2015-11-30T11:32:07 supybot Got end of MOTD from irc.devel.redhat.com
+INFO 2015-11-30T11:32:10 supybot Join to #wait on RHAT synced in 2.02 seconds.
+INFO 2015-11-30T11:32:27 supybot identify called by "foots!~jfoots@10.12.213.179".
+INFO 2015-11-30T11:34:46 supybot channel ignore add called by "foots!~jfoots@10.12.213.179".
+ERROR 2015-11-30T11:34:46 supybot Uncaught exception in ['channel', 'ignore', 'add'].
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/supybot/callbacks.py", line 1180, in _callCommand
+    self.callCommand(command, irc, msg, *args, **kwargs)
+  File "/usr/lib/python2.7/dist-packages/supybot/utils/python.py", line 86, in g
+    f(self, *args, **kwargs)
+  File "/usr/lib/python2.7/dist-packages/supybot/callbacks.py", line 1166, in callCommand
+    method(irc, msg, *args, **kwargs)
+  File "/usr/lib/python2.7/dist-packages/supybot/commands.py", line 907, in newf
+    state = spec(irc, msg, args, stateAttrs={'cb': self, 'log': self.log})
+  File "/usr/lib/python2.7/dist-packages/supybot/commands.py", line 895, in __call__
+    context(irc, msg, args, state)
+  File "/usr/lib/python2.7/dist-packages/supybot/commands.py", line 686, in __call__
+    self.converter(irc, msg, args, state, *self.args)
+  File "/usr/lib/python2.7/dist-packages/supybot/commands.py", line 282, in getBanmask
+    state.args[-1] = banmaskstyle.makeBanmask(state.args[-1])
+  File "/usr/lib/python2.7/dist-packages/supybot/conf.py", line 936, in makeBanmask
+    assert ircutils.isChannel(dynamic.channel)
+AssertionError
+ERROR 2015-11-30T11:34:46 supybot Exception id: 0xc5d7b
+INFO 2015-11-30T11:36:44 supybot whoami called by "foots!~jfoots@10.12.213.179".
+INFO 2015-11-30T11:37:25 supybot channel ignore add called by "foots!~jfoots@10.12.213.179".
+INFO 2015-11-30T12:06:39 supybot load called by "foots!~jfoots@10.12.213.179".
+INFO 2015-11-30T12:32:06 supybot Flushers flushed and garbage collected.
+INFO 2015-11-30T13:32:07 supybot Flushers flushed and garbage collected.
+INFO 2015-11-30T14:32:07 supybot Flushers flushed and garbage collected.
+INFO 2015-11-30T14:58:09 supybot channel called by "foots!~jfoots@10.12.213.179".
+INFO 2015-11-30T14:58:36 supybot join called by "foots!~jfoots@10.12.213.179".
+INFO 2015-11-30T14:58:38 supybot Join to #ignoreme on RHAT synced in 2.06 seconds.
